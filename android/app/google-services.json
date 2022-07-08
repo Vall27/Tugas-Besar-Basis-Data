@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "129377675088",
+    "project_id": "basdat-985c5",
+    "storage_bucket": "basdat-985c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129377675088:android:379a5ecdf5c94d5dd02e55",
+        "android_client_info": {
+          "package_name": "com.example.basdatfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129377675088-97idjek4v750o581at4s7q7mavpffp16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnpiqFvAAne_4xK3CmgQuPIJGndEV2XWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129377675088-97idjek4v750o581at4s7q7mavpffp16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129377675088-ctp9vuiumlrq32r4cued2hm839f4vlef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.basdatfinal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
